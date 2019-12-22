@@ -1,6 +1,6 @@
 # SymLinkDir
 
-SymLinkDir is a simple CLI for creating symbol links with [Jeff Brown Junction Points class](https://www.codeproject.com/Articles/15633/Manipulating-NTFS-Junction-Points-in-NET).
+SymLinkDir is a simple CLI for creating directory symbolic links with [Jeff Brown Junction Points class](https://www.codeproject.com/Articles/15633/Manipulating-NTFS-Junction-Points-in-NET).
 
 ## License
 
